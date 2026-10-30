@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NutriTrack</string>
+    <string name="dashboard_title">NutriTrack</string>
+    <string name="calories">Kalorie</string>
+    <string name="protein">Białko</string>
+    <string name="carbs">Węglowodany</string>
+    <string name="fat">Tłuszcze</string>
+    <string name="fiber">Błonnik</string>
+    
+    <string name="meal_breakfast">Śniadanie</string>
+    <string name="meal_second_breakfast">II Śniadanie</string>
+    <string name="meal_lunch">Obiad</string>
+    <string name="meal_dinner">Kolacja</string>
+    <string name="meal_snacks">Przekąski</string>
+    
+    <string name="search_hint">Szukaj produktu lub marki…</string>
+    <string name="camera_permission_required">Wymagane jest zezwolenie na aparat, aby skanować kody kreskowe i robić zdjęcia posiłków.</string>
+</resources>
